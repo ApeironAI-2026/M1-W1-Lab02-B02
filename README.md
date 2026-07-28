@@ -1,6 +1,6 @@
 # ☕ M1-W1-Lab02 — The Cozy Bean Gets Busy
 
-**Apeiron AI Training Academy** · *"Boundless Possibilities, Infinite Potential"*
+**Aperion AI Training Academy** · *"Boundless Possibilities, Infinite Potential"*
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@ Three weeks on, the shop got popular. This week you stop *doing* everything pers
 
 **Start here → [`M1-W1-Lab02.md`](M1-W1-Lab02.md)** — the full lab, 20 steps, plus two capstone exercises.
 
-> 📎 **Do [Lab01 — Opening Week](https://github.com/ApeironAI-2026/M1-W1-Lab01-B02) first.** This lab assumes variables, types, lists and dictionaries. Its GitHub Classroom link is in Google Classroom alongside this one.
+> 📎 **Do [Lab01 — Opening Week](https://github.com/AperionAI-2026/M1-W1-Lab01-B02) first.** This lab assumes variables, types, lists and dictionaries. Its GitHub Classroom link is in Google Classroom alongside this one.
 
 ---
 
@@ -49,7 +49,7 @@ Keeping the names exactly `Lab01` and `Lab02` matters for one small, pleasant re
 2. Make sure the **HTTPS** tab is selected.
 3. Click the 📋 copy icon.
 
-You now have something like `https://github.com/ApeironAI-2026/M1-W1-Lab02-B02-<your-username>.git` on your clipboard. **Use your own address**, not a classmate's.
+You now have something like `https://github.com/AperionAI-2026/M1-W1-Lab02-B02-<your-username>.git` on your clipboard. **Use your own address**, not a classmate's.
 
 ### 1.3 Clone it into `Week1/Lab02`
 
@@ -97,7 +97,7 @@ ls
 1. VS Code → **File → Open Folder…** → choose your **`Lab02`** folder.
 2. **Terminal → New Terminal.**
 
-**Never done the setup?** [Lab01's README](https://github.com/ApeironAI-2026/M1-W1-Lab01-B02#2--set-up-python-and-vs-code) covers installing Python, getting VS Code, and saving files. Do that once, then come back here.
+**Never done the setup?** [Lab01's README](https://github.com/AperionAI-2026/M1-W1-Lab01-B02#2--set-up-python-and-vs-code) covers installing Python, getting VS Code, and saving files. Do that once, then come back here.
 
 **Now run something real:**
 
@@ -176,6 +176,6 @@ Still stuck after a genuine try? Post in the course channel with **what you ran*
 
 ---
 
-*Apeiron AI Training Academy · Module 1, Week 1, Lab 02 · Previous: [Lab01 — Opening Week](https://github.com/ApeironAI-2026/M1-W1-Lab01-B02)*
+*Aperion AI Training Academy · Module 1, Week 1, Lab 02 · Previous: [Lab01 — Opening Week](https://github.com/AperionAI-2026/M1-W1-Lab01-B02)*
 
 > 🔗 The links to Lab01's cheat sheet and glossary inside the lab document are **relative** — they work once both repos are cloned side by side as `Week1/Lab01` and `Week1/Lab02`, which is exactly why the folder names above matter.
