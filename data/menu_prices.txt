@@ -1,0 +1,4 @@
+latte,3.50
+espresso,2.75
+muffin,2.25
+cappuccino,4.00

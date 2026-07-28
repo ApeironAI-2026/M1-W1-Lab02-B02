@@ -1,0 +1,24 @@
+# --- Instructor-only materials: NOT distributed to students ---
+# Slides and demo notebooks stay local; only the lab itself is shared.
+*.pptx
+*.ppt
+*.ipynb
+.ipynb_checkpoints/
+*.SAMPLE.docx
+
+# --- Python noise ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Editor / OS noise ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# NOTE: data/ IS shipped on purpose -- orders.txt, shift_hours.txt and
+# menu_prices.txt are required by the lab. The files the scripts generate
+# (sample.txt, sample_fixed.txt, end_of_day.txt, my_report.txt) are left
+# tracked deliberately, so students can commit their own output.
