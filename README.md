@@ -8,7 +8,7 @@
 | **Week** | Week 1 |
 | **Lab** | Lab02 — The Cozy Bean Gets Busy |
 | **Topic** | `if`/`elif`/`else`, `for` and `while` loops, functions, running scripts, reading and writing files, `split()`/`join()` |
-| **Duration** | **≈ 3 hours 45 minutes** of lab work (setup not counted) |
+| **Duration** | **≈ 1 hour** of lab work (setup not counted) |
 | **Difficulty** | ⭐ Absolute Beginner — continues directly from Lab01 |
 
 Three weeks on, the shop got popular. This week you stop *doing* everything personally and start writing things down that do themselves: **rules**, **loops**, **recipe cards** (functions), and an **order notebook** your shop reads back the next morning.
@@ -144,13 +144,13 @@ Seven lines like that means everything is wired up. Open [`M1-W1-Lab02.md`](M1-W
 
 You never create these — they are already there. Some scripts will *add* new files to `data/` (`sample.txt`, `sample_fixed.txt`, `end_of_day.txt`, `my_report.txt`). That is Python creating them for you, and it is safe to run those scripts as many times as you like.
 
-> 🛋️ **Split this lab across two or three sittings.** A natural break is after Cluster C (recipe cards), when you have decisions, loops and functions under your belt and the file work is still ahead.
+> 🛋️ **Aim for one sitting of about an hour.** If you do need to pause, the natural break is after Cluster C (recipe cards), when you have decisions, loops and functions under your belt and the file work is still ahead.
 
 ---
 
 ## 4. 💾 Saving your work back to GitHub
 
-From inside `Lab02`, at the end of each sitting:
+From inside `Lab02`, when you finish, or any time you pause:
 
 ```text
 git add .

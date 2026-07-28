@@ -8,10 +8,10 @@
 | **Module** | M1: AI/ML Fundamentals |
 | **Week** | Week 1 |
 | **Lab** | Lab02 — The Cozy Bean Gets Busy |
-| **Duration** | **≈ 3 hours 45 minutes** of lab work (setup not counted) |
+| **Duration** | **≈ 1 hour** of lab work (setup not counted) |
 | **Difficulty** | ⭐ Absolute Beginner — continues directly from Lab01 |
 
-> 🛋️ **Split this across two or three sittings.** A natural break is after Cluster C (recipe cards), when you have decisions, loops and functions under your belt and file work is still ahead.
+> 🛋️ **Aim for one sitting of about an hour.** If you do need to pause, the natural break is after Cluster C (recipe cards), when you have decisions, loops and functions under your belt and the file work is still ahead.
 
 ### What you learned in class (and will now make your own)
 
