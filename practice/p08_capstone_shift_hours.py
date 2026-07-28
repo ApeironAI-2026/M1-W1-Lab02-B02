@@ -12,7 +12,7 @@
 #       101 Sara 6.5 7.0 8.0 5.5 6.0
 #    For each barista, work out the TOTAL hours and the average
 #    per day (everyone works exactly 5 days), and print one line
-#    each in the shape the class slide used.
+#    each in the shape used in class.
 #
 #  WHEN YOU ARE DONE, running this file should print EXACTLY:
 #    Sara ID 101 worked 33.0 hours: 6.6 / day

@@ -1020,7 +1020,7 @@ Signed: Sara
 - C) It is erased before anything is written
 - D) Python refuses and raises an error
 
-**Q2.** The class demo wrote three lines with no `\n`. What did the file contain?
+**Q2.** In class, three lines were written with no `\n`. What did the file contain?
 
 - A) One line with all three joined together
 - B) Three separate lines
@@ -1218,7 +1218,7 @@ Eight core problems, ramping from a single rule to the two capstones from class.
 These are the exercises straight from your class session, rebuilt inside the shop. They are the hardest things in this lab, and finishing them means you have genuinely learned Week 1.
 
 - **Capstone A — The Biggest Order of the Day.** In class this was `input_stats` / `longest_line`: a function that reads a file and reports its longest line. In the shop it becomes the closing-time prize for the day's biggest order. Same recipe card, new apron.
-- **Capstone B — Barista Shift Hours.** In class this was `hours.txt`, with Suzy, Brad and Jenn. Here it is your three baristas in `data/shift_hours.txt`, and the output keeps the exact shape from the slide: `<name> ID <id> worked <total> hours: <avg> / day`. Everybody works exactly five days.
+- **Capstone B — Barista Shift Hours.** In class this was `hours.txt`, with Suzy, Brad and Jenn. Here it is your three baristas in `data/shift_hours.txt`, and the output keeps the exact shape used in class: `<name> ID <id> worked <total> hours: <avg> / day`. Everybody works exactly five days.
 
 ---
 
